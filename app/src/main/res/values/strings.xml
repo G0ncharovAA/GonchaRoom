@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">GonchaRoom</string>
+    <string name="hint_entity">Entity...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Entity not saved because it is empty.</string>
+
+</resources>
